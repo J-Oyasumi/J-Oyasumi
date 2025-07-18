@@ -4,7 +4,7 @@ I am Han Jiang, currently an undergraduate at [Nanjing University](https://www.n
 
 I am actively working on Robot Learning 🤖
 
-view my [Personal Page](https://j-oyasumi.github.io) and [Blog](https://oyasumi.world)(Under Construction now) to find more! 😊
+view my [Personal Page](https://j-oyasumi.github.io) and [My World](https://oyasumi.world) to find more! 😊
 <!--
 **J-Oyasumi/J-Oyasumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
