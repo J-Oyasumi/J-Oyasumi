@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Han Jiang, currently an undergraduate at [Nanjing University](https://www.nju.edu.cn/en/), majoring Intelligence Science and Technology.
+I am Han Jiang, currently a second-year undergraduate at [Nanjing University](https://www.nju.edu.cn/en/), majoring Intelligence Science and Technology.
 
 I am actively working on Robot Learning 🤖
 
