@@ -3,8 +3,6 @@
 I am Han Jiang, currently a second-year undergraduate at [Nanjing University](https://www.nju.edu.cn/en/), majoring Intelligence Science and Technology.
 
 I am actively working on Robot Learning 🤖
-
-view my [Personal Page](https://j-oyasumi.github.io) and [My World](https://oyasumi.world) to find more! 😊
 <!--
 **J-Oyasumi/J-Oyasumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
